@@ -1,1 +1,1 @@
-![Image](![](../../../Users/Пользоватеель/Desktop/qqq.jpg))
+![Image](![](../../../Users/Пользоватеель/Desktop/qqq.jpg)
