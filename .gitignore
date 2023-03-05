@@ -48,4 +48,4 @@ out/
 build.gradle
 gradlew
 gradlew.bat
-settings.gradle.idea
+settings.gradle
